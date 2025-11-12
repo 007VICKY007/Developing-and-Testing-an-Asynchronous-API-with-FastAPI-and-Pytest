@@ -1,10 +1,6 @@
-# FastAPI CRUD API with PostgreSQL 📝
+# FastAPI CRUD API with PostgreSQL
 
 A practical, production-ready REST API built with FastAPI, PostgreSQL, and Docker. This project demonstrates modern Python API development with proper testing, database management, and containerization.
-
-## What This Project Does
-
-This is a **notes management API** that lets you create, read, update, and delete notes. Think of it as a backend for a note-taking app, but it's designed to be a solid foundation you can adapt for any CRUD application.
 
 ## Why This Stack?
 
