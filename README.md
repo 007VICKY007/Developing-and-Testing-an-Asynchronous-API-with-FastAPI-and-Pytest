@@ -36,7 +36,7 @@ A practical, production-ready REST API built with FastAPI, PostgreSQL, and Docke
 
 *Direct database verification using `docker-compose exec` to query PostgreSQL and confirm the note was actually persisted.*
 
-## What's Working Right Now ✅
+## What's Working Right Now 
 
 ### Stage 1: Basic FastAPI Setup
 Got the FastAPI app running in Docker. The classic "hello world" moment, but containerized:
