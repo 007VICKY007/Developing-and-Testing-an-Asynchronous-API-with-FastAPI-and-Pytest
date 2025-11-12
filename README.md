@@ -204,9 +204,4 @@ Make sure you rebuilt the Docker image after changing requirements:
 ```bash
 docker-compose build
 ```
-
-## Contributing
-
-Found a bug? Have an idea? PRs are welcome! Just keep the philosophy in mind: clarity over cleverness.
-
 *Last updated: November 12, 2025*
