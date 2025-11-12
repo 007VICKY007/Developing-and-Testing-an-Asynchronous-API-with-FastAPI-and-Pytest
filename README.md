@@ -31,6 +31,11 @@ A practical, production-ready REST API built with FastAPI, PostgreSQL, and Docke
 
 *Confirmation that all Docker Compose services are up and running smoothly.*
 
+### API Endpoints Overview
+<img width="1919" height="776" alt="Screenshot 2025-11-12 135420" src="https://github.com/user-attachments/assets/68ea12ff-5104-4f98-994d-bcfc96c6aded" />
+
+*The complete API interface with all CRUD operations: GET, POST, PUT, and DELETE endpoints for managing notes*
+
 ### Database Query Verification
 <img width="1182" height="255" alt="Screenshot 2025-11-12 135353" src="https://github.com/user-attachments/assets/b58d6a52-b2e0-4815-b89a-1419afff3861" />
 
